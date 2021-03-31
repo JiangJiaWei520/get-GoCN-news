@@ -34,6 +34,7 @@ nohup ./main &
 对于html解析时该库无法解析空格，推荐使用doc.FindAllStrict此方法
 
 ### 步骤
+```
 1、get-GoCN-news\getNews
 	htmlPara.go中github.com/greenpipig/soup修改为自己github仓库的soup,fork一个https://github.com/anaskhan96/soup
 2、get-GoCN-news\vendor\github.com\greenpipig\soup路径名改为自己的，如get-GoCN-news\vendor\github.com\JiangJiaWei520\soup
@@ -63,3 +64,5 @@ nohup ./main &
 13、执行./update.sh
 
 **go mod
+```
+
