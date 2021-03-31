@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/greenpipig/get-GoCN-news/GoCN-news"
-	"github.com/greenpipig/get-GoCN-news/cron"
-	"github.com/greenpipig/get-GoCN-news/getNews"
+	"github.com/JiangJiaWei520/get-GoCN-news/GoCN-news"
+	"github.com/JiangJiaWei520/get-GoCN-news/cron"
+	"github.com/JiangJiaWei520/get-GoCN-news/getNews"
 	"log"
 	"os"
 	"os/exec"

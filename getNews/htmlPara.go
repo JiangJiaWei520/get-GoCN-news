@@ -2,7 +2,7 @@ package getNews
 
 import (
 	"fmt"
-	"github.com/greenpipig/soup"
+	"github.com/JiangJiaWei520/soup"
 	"log"
 	//"github.com/anaskhan96/soup"
 	"time"

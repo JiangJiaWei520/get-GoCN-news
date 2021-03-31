@@ -1,0 +1,21 @@
+TRACE: 2021/03/31 16:09:12 main.go:27: newsPageUrl:/topics/11853,newsPageTitle:GoCN 每日新闻 (2021-03-31)
+TRACE: 2021/03/31 16:09:12 write2md.go:41: news is:Go 如何知道 time.Now 的时间 ,url is:https://tpaschalis.github.io/golang-time-now/
+TRACE: 2021/03/31 16:09:12 write2md.go:41: news is:构建一个超简约的 Docker 镜像运行 Golang App ,url is:https://dev.to/chseki/build-a-super-minimalistic-docker-image-to-run-your-golang-app-33j0
+TRACE: 2021/03/31 16:09:12 write2md.go:41: news is:Go 中集合的高阶函数 ,url is:https://sergio-franco.me/posts/higher-order-collections/
+TRACE: 2021/03/31 16:09:12 write2md.go:41: news is:go 实现的 url 短链接服务 ,url is:https://github.com/adhocore/urlsh
+TRACE: 2021/03/31 16:09:12 write2md.go:41: news is:go 实现的构建虚拟网络工具 ,url is:https://github.com/gravitl/netmaker
+TRACE: 2021/03/31 16:09:12 main.go:38: Execute Shell:./update.sh failed with error:exec: "/bin/bash": file does not exist
+TRACE: 2021/03/31 17:21:20 main.go:27: newsPageUrl:/topics/11853,newsPageTitle:GoCN 每日新闻 (2021-03-31)
+TRACE: 2021/03/31 17:21:20 write2md.go:41: news is:Go 如何知道 time.Now 的时间 ,url is:https://tpaschalis.github.io/golang-time-now/
+TRACE: 2021/03/31 17:21:20 write2md.go:41: news is:构建一个超简约的 Docker 镜像运行 Golang App ,url is:https://dev.to/chseki/build-a-super-minimalistic-docker-image-to-run-your-golang-app-33j0
+TRACE: 2021/03/31 17:21:20 write2md.go:41: news is:Go 中集合的高阶函数 ,url is:https://sergio-franco.me/posts/higher-order-collections/
+TRACE: 2021/03/31 17:21:20 write2md.go:41: news is:go 实现的 url 短链接服务 ,url is:https://github.com/adhocore/urlsh
+TRACE: 2021/03/31 17:21:20 write2md.go:41: news is:go 实现的构建虚拟网络工具 ,url is:https://github.com/gravitl/netmaker
+TRACE: 2021/03/31 17:21:20 main.go:38: Execute Shell:./update.sh failed with error:exec: "/bin/bash": file does not exist
+TRACE: 2021/03/31 17:22:48 main.go:27: newsPageUrl:/topics/11853,newsPageTitle:GoCN 每日新闻 (2021-03-31)
+TRACE: 2021/03/31 17:22:48 write2md.go:41: news is:Go 如何知道 time.Now 的时间 ,url is:https://tpaschalis.github.io/golang-time-now/
+TRACE: 2021/03/31 17:22:48 write2md.go:41: news is:构建一个超简约的 Docker 镜像运行 Golang App ,url is:https://dev.to/chseki/build-a-super-minimalistic-docker-image-to-run-your-golang-app-33j0
+TRACE: 2021/03/31 17:22:48 write2md.go:41: news is:Go 中集合的高阶函数 ,url is:https://sergio-franco.me/posts/higher-order-collections/
+TRACE: 2021/03/31 17:22:48 write2md.go:41: news is:go 实现的 url 短链接服务 ,url is:https://github.com/adhocore/urlsh
+TRACE: 2021/03/31 17:22:48 write2md.go:41: news is:go 实现的构建虚拟网络工具 ,url is:https://github.com/gravitl/netmaker
+TRACE: 2021/03/31 17:22:48 main.go:38: Execute Shell:./update.sh failed with error:exec: "/bin/bash": file does not exist
