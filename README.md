@@ -45,7 +45,7 @@ nohup ./main &
 	"github.com/greenpipig/get-GoCN-news/cron" 		  
 	"github.com/greenpipig/get-GoCN-news/getNews"	  
 	改为
-		"github.com/JiangJiaWei520/get-GoCN-news/GoCN-news"   
+	"github.com/JiangJiaWei520/get-GoCN-news/GoCN-news"   
 	"github.com/JiangJiaWei520/get-GoCN-news/cron" 		  
 	"github.com/JiangJiaWei520/get-GoCN-news/getNews"
 6、安装go环境
